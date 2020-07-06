@@ -1,0 +1,12 @@
+{
+  "name": "forkers",
+  "version": "1.0.0",
+  "description": "CLI for Forkers!",
+  "main": "index.js",
+  "author": {
+    "name": "Sourodeep Chatterjee",
+    "email": "sourodeep224@outlook.com",
+    "url": "https://sdcworld.visualstudio.com"
+  },
+  "license": "MIT"
+}
